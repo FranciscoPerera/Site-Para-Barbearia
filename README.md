@@ -47,10 +47,9 @@ Este projeto foi desenvolvido para simular um site real de barbearia, com foco e
 
 ---
 
-Responsividade
+## Responsividade
 
 O site se adapta automaticamente a:
-
 - Smartphones  
 - Tablets  
 - Desktops  
@@ -68,6 +67,6 @@ O site se adapta automaticamente a:
 
 ---
 
-## 📄 Licença
+## Licença
 
 Este projeto é de uso livre para fins de estudo e portfólio.
