@@ -36,19 +36,6 @@ Projeto web com layout moderno, navegação suave e interface inspirada em exper
 
 ---
 
-## Estrutura do projeto
-
-barbearia/
-│
-├── index.html
-├── /css
-│   └── styles.css
-├── /js
-│   └── script.js
-└── README.md
-
----
-
 ## Objetivo do projeto
 
 Este projeto foi desenvolvido para simular um site real de barbearia, com foco em:
@@ -70,7 +57,7 @@ O site se adapta automaticamente a:
 
 ---
 
-## Melhorias futurasT
+## Melhorias futuras
 
 - Sistema de agendamento real com backend  
 - Integração com banco de dados  
