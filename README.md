@@ -1,4 +1,4 @@
-# 💈 Barbearia Elite
+# 💈 Barbearia 
 
 Site institucional moderno para barbearia, desenvolvido com foco em **design responsivo, experiência do usuário e apresentação profissional de serviços**.
 
@@ -39,7 +39,7 @@ Projeto web com layout moderno, navegação suave e interface inspirada em exper
 ## Estrutura do projeto
 
 ```bash
-barbearia-elite/
+barbearia/
 │
 ├── index.html
 ├── /css
