@@ -1,16 +1,16 @@
-# 💈 Barbearia 
+# Barbearia 
 
 Site institucional moderno para barbearia, desenvolvido com foco em **design responsivo, experiência do usuário e apresentação profissional de serviços**.
 
 ---
 
-## 📸 Demonstração
+## Demonstração
 
 Projeto web com layout moderno, navegação suave e interface inspirada em experiências premium de barbearia.
 
 ---
 
-## 🚀 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - HTML5  
 - CSS3  
@@ -38,7 +38,6 @@ Projeto web com layout moderno, navegação suave e interface inspirada em exper
 
 ## Estrutura do projeto
 
-```bash
 barbearia/
 │
 ├── index.html
@@ -71,7 +70,7 @@ O site se adapta automaticamente a:
 
 ---
 
-## Melhorias futuras
+## Melhorias futurasT
 
 - Sistema de agendamento real com backend  
 - Integração com banco de dados  
