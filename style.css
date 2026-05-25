@@ -1,95 +1,17 @@
-    /* Estilo geral do site */
-    body {
-        font-family: 'Poppins', sans-serif;
-        /* Fonte moderna */
-        scroll-behavior: smooth;
-        /* Scroll suave ao clicar nos links */
-    }
+body {
+    transition: background 0.3s, color 0.3s;
+}
 
-    /* NAVBAR */
-    .navbar {
-        transition: 0.3s;
-        /* Animação suave */
-    }
+.card {
+    margin-top: 50px;
+    border-radius: 15px;
+}
 
-    .navbar.scrolled {
-        background: #000 !important;
-        /* Muda cor ao rolar */
-        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
-        /* Sombra */
-    }
+a {
+    text-decoration: none;
+    font-weight: 500;
+}
 
-    /* HERO (primeira seção) */
-    .hero {
-        height: 100vh;
-        /* Ocupa a tela inteira */
-        background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)),
-            url("https://images.unsplash.com/photo-1517832606299-7ae9b720a186");
-        background-size: cover;
-        /* Cobre toda a área */
-        background-position: center;
-        /* Centraliza imagem */
-    }
-
-    .hero h1 {
-        font-weight: 700;
-        /* Texto mais forte */
-    }
-
-    /* BOTÃO */
-    .btn-warning {
-        border-radius: 30px;
-        /* Deixa arredondado */
-        padding: 10px 25px;
-        font-weight: 600;
-    }
-
-    /* CARDS */
-    .card {
-        border: none;
-        border-radius: 15px;
-        transition: 0.3s;
-    }
-
-    .card:hover {
-        transform: translateY(-8px);
-        /* Sobe ao passar o mouse */
-    }
-
-    /* GALERIA */
-    .gallery img {
-        border-radius: 10px;
-        transition: 0.3s;
-    }
-
-    .gallery img:hover {
-        transform: scale(1.05);
-        /* Zoom leve */
-    }
-
-    /* SOBRE */
-    .about {
-        max-width: 700px;
-        /* Limita largura do texto */
-        margin: auto;
-        /* Centraliza */
-    }
-
-    /* BOTÃO WHATSAPP */
-    .whatsapp {
-        position: fixed;
-        /* Fica fixo na tela */
-        bottom: 20px;
-        right: 20px;
-        background: #25D366;
-        color: white;
-        font-size: 24px;
-        padding: 14px 16px;
-        border-radius: 50%;
-        z-index: 1000;
-        /* Fica acima de tudo */
-    }
-
-    .whatsapp:hover {
-        background: #1ebe5d;
-    }
+a:hover {
+    text-decoration: underline;
+}

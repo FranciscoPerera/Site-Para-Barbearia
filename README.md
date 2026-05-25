@@ -1,72 +1,73 @@
-# Barbearia 
+# 🔗 Links Favoritos
 
-Site institucional moderno para barbearia, desenvolvido com foco em **design responsivo, experiência do usuário e apresentação profissional de serviços**.
-
----
-
-## Demonstração
-
-Projeto web com layout moderno, navegação suave e interface inspirada em experiências premium de barbearia.
+Um sistema simples e moderno para salvar, gerenciar e acessar links favoritos diretamente no navegador.  
+O projeto foi desenvolvido com **HTML, Bootstrap 5, Bootstrap Icons e JavaScript puro**, com suporte a **Dark Mode e localStorage**.
 
 ---
 
-## Tecnologias utilizadas
+## 🚀 Demonstração
 
-- HTML5  
-- CSS3  
-- Bootstrap 5.3  
-- Bootstrap Icons  
-- Google Fonts (Poppins)  
-- JavaScript (básico)  
-- WhatsApp API (integração de contato)
-
----
-
-## Funcionalidades
-
-- Layout totalmente responsivo (mobile first)  
-- Navbar fixa com navegação por seções  
-- Seção de serviços com cards e preços  
-- Apresentação da barbearia (sobre)  
-- Galeria de imagens  
-- Formulário de contato funcional  
-- Botão flutuante do WhatsApp  
-- CTA para agendamento rápido  
-- Interface moderna e profissional  
+✔ Adicionar links com descrição e URL  
+✔ Abrir links em nova aba  
+✔ Remover links individualmente  
+✔ Alternar entre **Dark/Light Mode**  
+✔ Salvamento automático no navegador (localStorage)  
+✔ Interface moderna com Bootstrap 5  
 
 ---
 
-## Objetivo do projeto
+## 🖼️ Interface
 
-Este projeto foi desenvolvido para simular um site real de barbearia, com foco em:
+O projeto conta com:
 
-- Apresentação comercial profissional  
-- Prática de layout moderno com Bootstrap  
-- Estruturação de páginas institucionais  
-- Experiência do usuário (UX/UI)
-
----
-
-## Responsividade
-
-O site se adapta automaticamente a:
-- Smartphones  
-- Tablets  
-- Desktops  
+- Layout responsivo (mobile e desktop)
+- Cards centralizados
+- Ícones modernos (Bootstrap Icons)
+- Tema escuro e claro
+- Alertas de validação
 
 ---
 
-## Melhorias futuras
+## 🛠️ Tecnologias utilizadas
 
-- Sistema de agendamento real com backend  
-- Integração com banco de dados  
-- Página de login para clientes  
-- Galeria dinâmica com API  
-- Painel administrativo  
-- Sistema de avaliação de serviços  
+- HTML5
+- CSS3 (Bootstrap 5)
+- JavaScript (Vanilla JS)
+- Bootstrap Icons
+- LocalStorage (armazenamento no navegador)
+
+---
+
+## 📦 Funcionalidades
+
+### ➕ Adicionar link
+Permite cadastrar:
+- Descrição do link
+- URL do site
+
+### 🗑️ Remover link
+Remove o item da lista e do armazenamento local.
+
+### 🌙 Dark Mode
+Alterna entre tema claro e escuro com persistência no navegador.
+
+### 💾 Persistência de dados
+Os links e o tema são salvos automaticamente no `localStorage`.
+
+---
+
+
+## 💡 Melhorias futuras
+
+* 🔍 Sistema de busca de links
+* ⭐ Favoritar links importantes
+* 🏷️ Categorias (trabalho, estudo, pessoal)
+* 📱 Versão PWA (instalável como app)
+* 🔐 Login e sincronização com banco de dados
 
 ---
 
 ## Licença
 
-Este projeto é de uso livre para fins de estudo e portfólio.
+Este projeto está sob a licença MIT.
+Sinta-se livre para usar, estudar e modificar.
